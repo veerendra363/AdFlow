@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "veltris@123",
+    "database": "adFlow",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "veltris@123",
+    "database": "adFlow",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "veltris@123",
+    "database": "adFlow",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
