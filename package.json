@@ -20,14 +20,19 @@
   },
   "homepage": "https://github.com/veerendra363/AdFlow#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "bullmq": "^5.58.9",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
+    "express-validator": "^7.2.1",
     "ioredis": "^5.8.0",
+    "jsonwebtoken": "^9.0.2",
     "multer": "^2.0.2",
     "pg": "^8.16.3",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.37.7"
+    "sequelize": "^6.37.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
